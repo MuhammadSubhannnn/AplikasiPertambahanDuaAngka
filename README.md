@@ -7,7 +7,7 @@ Aplikasi Pertambahan Dua Angka Adalah Pertambahan Berupa Angka 1 dan Angka 2 dan
 
 # Keunggulan Aplikasi
 
-- *Pertambahan Dua Angka*: Aplikasi ini menghitun angka 1 dan angka 2.
+- *Pertambahan Dua Angka*: Aplikasi ini menghitung angka 1 dan angka 2.
 - 
 # Pembuat Aplikasi
  Muhammad Subhan - 2210010215 - Latihan 2
